@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+kUwT5/CNkAHluMxW30nwq+72ulAMn4QdRqgwkGWnSZYJTAIxNcbSXxpeKQpYkfCB1S/3qp7O+XObDVEOiQ0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\LabP232\\LabForP232_2\\LabForP232_2\\LabForP232_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
